@@ -1,0 +1,6 @@
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\bin\Debug\RecommendSystem.exe.config
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\bin\Debug\RecommendSystem.exe
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\bin\Debug\RecommendSystem.pdb
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\obj\Debug\RecommendSystem.csprojResolveAssemblyReference.cache
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\obj\Debug\RecommendSystem.exe
+C:\Users\Ксения\Desktop\инст\Диплом\RecommendSystem\RecommendSystem\obj\Debug\RecommendSystem.pdb
