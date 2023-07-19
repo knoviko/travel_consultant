@@ -1,5 +1,6 @@
 # travel_consultant
 Intelligent Travel Consultant with Big Data Support 
+https://amaimonkun369.wixsite.com/touristmate
 
 The final qualification work was carried out on the topic: «Intelligent Travel Consultant with Big Data Support».
 The aim of the work was to create a recommendation system «Intelligent Travel Consultant with Big Data Support». During  the work, the tasks of the final qualification work and the requirements for the developed system were formulated.
